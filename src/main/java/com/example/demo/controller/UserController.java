@@ -8,6 +8,6 @@ public class UserController {
 	
 	@GetMapping("/user")
 	 public String UserData() {
-		return "BakertillyJFC Is a TAX consultant and advisory firm";
+		return "BakertillyJFC Is a TAX consultant and advisory firm.";
 	 }
 }
