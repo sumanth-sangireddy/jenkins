@@ -8,6 +8,6 @@ public class UserController {
 	
 	@GetMapping("/user")
 	 public String UserData() {
-		return "Bakertilly and Lenorasoft are conglomerate companies i guess. yeh dats correct.....";
+		return "Good Morning Fellas.....";
 	 }
 }
